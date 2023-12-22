@@ -1,0 +1,54 @@
+Assignment : 
+
+Q1. Write a program to load the iris dataset. and perform the following operations:
+1. Compute histogram of all columns and scatter plots
+2. Finding the mean, median, mode, and standard deviations of numerical columns
+
+
+Q2. Complete the followng prompts 
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Question 1:
+# Using NumPy, create a 3D array of shape (4, 4, 4) filled with random numbers between 1 and 100. 
+# Find the mean value of this array.
+
+# Question 2:
+# With Pandas, read a CSV file into a DataFrame. Then, filter the rows where a specific column's value is greater than a certain threshold.
+# Example: Read 'data.csv' and filter rows where 'age' > 30.
+
+# Question 3:
+# Using Matplotlib, plot a line graph showing the trend of a numerical dataset. 
+# Customize the plot with title, axis labels, and a legend.
+
+# Question 4:
+# Create a Pandas DataFrame with random values and perform the following operations:
+# - Replace NaN values with the mean of the column.
+# - Sort the DataFrame based on two columns.
+
+# Question 5:
+# Using NumPy, calculate the dot product of two matrices and find the determinant of the resulting matrix.
+
+# Question 6:
+# With Pandas, group a DataFrame by a categorical column and calculate the sum of another numerical column for each group.
+
+# Question 7:
+# Create a histogram using Matplotlib to show the distribution of a numerical dataset. 
+# Customize the number of bins and add grid lines for better readability.
+
+# Question 8:
+# Using NumPy, create a 2D array and perform a slicing operation to extract a specific sub-array.
+
+# Question 9:
+# With Pandas, perform a merge operation between two DataFrames based on a common column.
+
+# Question 10:
+# Using Matplotlib, create a scatter plot comparing two numerical variables in a dataset. 
+# Customize the plot by changing the color and shape of the data points.
+
+# Each question requires you to write a script to perform the specified task and analyze the results.
+
+
+The submission should be 2 seperate notebooks. Make the repo public and ping me (personally, when you are done)
